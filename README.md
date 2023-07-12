@@ -1,5 +1,5 @@
 # The Frontend Developer Career Path
 
-# Module 9 Scrimba Bootcamp. Workiing with APIs & Asinc JS
+# Module 9 Scrimba Bootcamp. Working with APIs & Asinc JS
 
 - BoredBot
