@@ -5,7 +5,7 @@ body {
 }
 
 body {
-  background: linear-gradient(to top, #2c3e50, #bdc3c7);
+  background: linear-gradient(to top, #345a80, #a1c4dc);
   background-repeat: no-repeat;
   height: 100vh;
   font-family: "Oxygen", sans-serif;
@@ -17,26 +17,32 @@ body {
 h1 {
   text-align: center;
   margin-top: 0;
+  font-size: 2.5rem;
 }
 
-#activity {
-  margin: 1em;
-  font-size: 1.3rem;
-  color: white;
+h4 {
+  font-size: 1.5rem;
 }
 
 button {
   height: 100px;
   width: 100px;
-  background-color: red;
+  background-color: #d1561f;
   border-radius: 50%;
   outline: none;
   border: 1px solid darkred;
   cursor: pointer;
 }
 
+button:active {
+  border: 2px solid black;
+}
+
 .fun {
-  background: linear-gradient(to left, #f7b733, #fc4a1a);
+  background: linear-gradient(to top, #f8f6f5, #40733f);
+  font-family: "Roboto Mono", monospace;
+  color: whitesmoke;
+  text-transform: capitalize;
 }
 
 #idea {
