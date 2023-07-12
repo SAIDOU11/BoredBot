@@ -19,6 +19,12 @@ h1 {
   margin-top: 0;
 }
 
+#activity {
+  margin: 1em;
+  font-size: 1.3rem;
+  color: white;
+}
+
 button {
   height: 100px;
   width: 100px;
